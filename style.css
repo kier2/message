@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 :root{
-    --default-delay:8s;
+    --default-delay:9s;
 }
 body{
     background: #ff9582;
