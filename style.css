@@ -121,6 +121,7 @@ button{
     }
     .frame .img-content h5{
         font-size: 1.2rem;
+        word-break: break-all;
     }
 }
 .slide-section{
