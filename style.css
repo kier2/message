@@ -117,7 +117,7 @@ button{
 
 @media (max-width:720px) {
     .frame{
-        width: 75%;
+        width: 90%;
     }
     .frame .img-content h5{
         font-size: 1.2rem;
